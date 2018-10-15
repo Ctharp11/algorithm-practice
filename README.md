@@ -1,0 +1,1 @@
+Practicing JavaScript algorithms. Tests written with Jest.
